@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 matplotlib
 numpy
+=======
+matplotlib
+numpy
+>>>>>>> 41cb9e252ae6cb5ef8fe84f4b739264664af1d83
 scipy

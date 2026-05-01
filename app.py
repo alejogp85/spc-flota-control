@@ -111,4 +111,3 @@ IF Consumo > 45.1 Lts/100km:
 
 
 
-
